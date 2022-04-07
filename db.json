@@ -2,7 +2,7 @@
   "balance": 
     {
       "currency": "USD",
-      "amound": 253671
+      "amound": 253671.0
     },
   "transactions": [
     {
