@@ -1,19 +1,18 @@
 {
-  "balance": 
-    {
-      "currency": "USD",
-      "amound": 253671.0
-    },
-  "transactions": [
-    {
-      "date": "20/12/2020",
-      "amound": 230,
-      "side": "receive"
-    },
-    {
-       "date": "20/12/2020",
-      "amound": 230,
-      "side": "receive"
-    }
-  ]
+   "balance":{
+      "currency":"USD",
+      "amound":253671.0
+   },
+   "transactions":[
+      {
+         "date":"20/12/2020",
+         "amound":230,
+         "side":"receive"
+      },
+      {
+         "date":"20/12/2020",
+         "amound":230,
+         "side":"receive"
+      }
+   ]
 }
