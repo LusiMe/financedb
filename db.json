@@ -1,10 +1,9 @@
 {
-  "balance": [
+  "balance": 
     {
       "currency": "USD",
       "amound": 253671
-    }
-  ],
+    },
   "transactions": [
     {
       "date": "20/12/2020",
