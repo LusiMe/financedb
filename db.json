@@ -2,5 +2,12 @@
    "balance":{
       "currency":"USD",
       "amound":253671.0
+   },
+   "transactions":[
+      {
+      "date": "21/12/2021",
+      "company":"HOC TLV",
+      "amound": 1
    }
+      ]
 }
